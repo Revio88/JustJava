@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SoloJava</string>
+
+    <string name="hello_world">Ciao mondo!</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="toppings_header">Extra</string>
+    <string name="whipped_cream">Panna montata</string>
+    <string name="chocolate">Cioccolato</string>
+    <string name="quantity">Quantità</string>
+    <string name="order">ordina</string>
+    <string name="thank_you">Grazie!!</string>
+</resources>
